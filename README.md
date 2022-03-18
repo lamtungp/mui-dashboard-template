@@ -63,7 +63,7 @@ The React UI starts on port `3000` and expects an API server on port `5000` (sav
 
 To use the product Node JS (>= 12.x) is required and GIT to clone/download the project from the public repository.
 
-**Step #1** - Clone the project
+**Step 1** - Clone the project
 
 ```bash
 $ git clone https://github.com/app-generator/react-berry-dashboard.git
@@ -72,7 +72,7 @@ $ cd react-berry-dashboard
 
 <br >
 
-**Step #2** - Install dependencies via NPM or yarn
+**Step 2** - Install dependencies via NPM or yarn
 
 ```bash
 $ npm i
@@ -82,7 +82,7 @@ $ yarn
 
 <br />
 
-**Step #3** - Start in development mode
+**Step 3** - Start in development mode
 
 ```bash
 $ npm run start 
@@ -136,7 +136,7 @@ The product is also open-source and is already configured to work with Berry Das
 
 ### Compile the API Server
 
-**Step #1** - Clone the project
+**Step 1** - Clone the project
 
 ```bash
 $ git clone https://github.com/app-generator/api-server-nodejs.git
@@ -151,16 +151,18 @@ $ npm i
 $ yarn
 ```
 
-**Step #3** - Run the SQLite migration via TypeORM
+**Step 3** - Run the SQLite migration via TypeORM
 
 ```
+$ npm run typeorm migration:run
+// OR 
 $ yarn typeorm migration:run
 ```
 
-**Step #4** - Start the API server (development mode)
+**Step 4** - Start the API server (development mode)
 
 ```bash
-$ npm dev
+$ npm run dev
 // OR
 $ yarn dev
 ```
