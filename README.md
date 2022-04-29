@@ -1,4 +1,4 @@
-# [React Berry Dashboard](https://appseed.us/product/react-node-js-berry-dashboard) 
+# [React Berry Dashboard](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) 
 
 **Berry** is a creative **[React Dashboard](https://appseed.us/product/react-node-js-berry-dashboard)** built using the Material-UI. It is meant to be the best User Experience with highly customizable feature-riched pages. It is a complete game-changer **React Dashboard** with an easy and intuitive responsive design as on retina screens or laptops. The product comes with a simple JWT authentication flow: `login`/`register`/`logout` powered by an open-source **Node JS API** Backend via `Passport` Library.
 
@@ -13,13 +13,13 @@
 
 > Links
 
-* [React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - product page
+* [React Node JS Berry](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) - product page
 * [React Node JS Berry](https://react-node-js-berry-dashboard.appseed-srv1.com/) - LIVE Demo
 * Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 * Related Products:
-  - **PRO Version**: [Full-Stack React Berry PRO](https://appseed.us/full-stack/react-berry-dashboard) 
-  - Django API Backend - [Django React Berry](https://appseed.us/product/django-react-berry-dashboard) - `open-source` project
-  - Flask API Backend - [Flask React Berry](https://appseed.us/product/flask-react-berry-dashboard) - `open-source` project
+  - **PRO Version**: [Full-Stack React Berry PRO](https://appseed.us/product/berry-dashboard-pro/full-stack/react/) 
+  - Django API Backend - [Django React Berry](https://appseed.us/product/berry-dashboard/api-server-django/react/) - `open-source` project
+  - Flask API Backend - [Flask React Berry](https://appseed.us/product/berry-dashboard/api-server-flask/react/) - `open-source` project
 
 <br />
 
@@ -172,4 +172,4 @@ The API server will start using the `PORT` specified in `.env` file (default 500
 <br /> 
 
 ---
-[React Node JS Berry](https://appseed.us/product/react-node-js-berry-dashboard) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[React Berry Dashboard](https://appseed.us/product/berry-dashboard/api-server-nodejs/react/) - Provided by [CodedThemes](https://codedthemes.com/) and **AppSeed [App Generator](https://appseed.us/generator)**.
